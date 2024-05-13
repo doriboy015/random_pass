@@ -12,8 +12,7 @@ uppercase_letters = 'ABCDEFGHIJKMNPQRSTUVWXYZ'
 punctuation = '!#$%&*+-=?@^_.'
 exc = 'il1Lo0O'
 
-chars = ''
-password = ''
+chars = ''    #словарь для генерации пароля
 
 cntPw = input('Укажите количество паролей для генерации: ')
 lenPw = input('Укажите длину одного пароля: ')
